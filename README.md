@@ -18,8 +18,8 @@ This project is a Drum Kit web application that allows you to play various drum 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/shripad19/Drum-Kit-System.git
+    cd Drum-Kit-System
     ```
 
 2. **Open the project**:
